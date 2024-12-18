@@ -5,7 +5,7 @@
 
 3.- Ya dentro de la aplicación, hacer click sobre 'Abrir un proyecto o solución'.
 
-4.- Buscar la carpeta del proyecto y seleccionar el archivo con extensión '.sln'.
+4.- Buscar la carpeta del proyecto (está dentro de imglish-master) y seleccionar el archivo con extensión '.sln'.
 
 5.- Cuando hayan cargado los archivos, se debería de poder ejecutar el programa.
 
