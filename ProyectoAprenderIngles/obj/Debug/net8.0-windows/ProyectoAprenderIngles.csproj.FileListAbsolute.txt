@@ -1,0 +1,17 @@
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\bin\Debug\net8.0-windows\ProyectoAprenderIngles.exe
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\bin\Debug\net8.0-windows\ProyectoAprenderIngles.deps.json
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\bin\Debug\net8.0-windows\ProyectoAprenderIngles.runtimeconfig.json
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\bin\Debug\net8.0-windows\ProyectoAprenderIngles.dll
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\bin\Debug\net8.0-windows\ProyectoAprenderIngles.pdb
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ProyectoAprenderIngles.Form1.resources
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ProyectoAprenderIngles.csproj.GenerateResource.cache
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ProyectoAprenderIngles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ProyectoAprenderIngles.AssemblyInfoInputs.cache
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ProyectoAprenderIngles.AssemblyInfo.cs
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ProyectoAprenderIngles.csproj.CoreCompileInputs.cache
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ProyectoAprenderIngles.dll
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\refint\ProyectoAprenderIngles.dll
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ProyectoAprenderIngles.pdb
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ProyectoAprenderIngles.genruntimeconfig.cache
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ref\ProyectoAprenderIngles.dll
+C:\Users\ciclesgs\source\repos\ProyectoAprenderIngles\ProyectoAprenderIngles\obj\Debug\net8.0-windows\ProyectoAprenderIngles.Form2.resources
